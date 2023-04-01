@@ -1,0 +1,19 @@
+.root {
+  padding: 0;
+  margin: 10vh;
+  box-sizing: border-box;
+  display: grid;
+  gap: 20px;
+  // grid-template-columns: 600px auto 100px;
+  grid-template-rows: repeat(3, 1fr);
+  &__container {
+    font-size: 40px;
+    width: 100%;
+    min-height: 100vh;
+    &__box {
+      margin-top: 25px;
+      display: grid;
+      place-items: center;
+    }
+  }
+}

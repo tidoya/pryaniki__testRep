@@ -1,0 +1,34 @@
+$margin__form: 30px;
+$margin__form__password: 5px;
+p {
+  margin: 0;
+}
+.container__form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+.label__form {
+  margin-right: $margin__form;
+
+  &__login {
+    margin-right: $margin__form + $margin__form__password;
+  }
+  &__password {
+    margin-right: $margin__form__password;
+  }
+}
+.form__checkbox {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  span {
+    font-size: 16px;
+  }
+}
+.form__field {
+  margin-top: 10px;
+}
