@@ -1,5 +1,5 @@
 # pryaniki__testRep
-#Стек:
+# Стек
   -React и Redux Toolkit
   -React Router v6
   -Material UI
