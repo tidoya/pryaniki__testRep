@@ -1,5 +1,5 @@
 # pryaniki__testRep
-  Реализовал небольшое SPA-приложение взаимодействующие с сервером. Это мой первый опыт с библиотекой Material UI и таблицами в целом.
+  Реализовал небольшое SPA-приложение взаимодействующие с сервером. Это мой первый опыт с библиотекой Material UI.
 # Стек:
 -React и Redux Toolkit<br> -React Router v6<br> -Material UI<br>-CSS-Modules и SCSS<br>
 # Скрипты
