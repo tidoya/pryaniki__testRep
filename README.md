@@ -1,4 +1,4 @@
-# pryaniki__testRep
+# read_docs
   Реализовал небольшое SPA-приложение взаимодействующие с сервером.
 # Стек:
 -React и Redux Toolkit<br> -React Router v6<br> -Material UI<br>-CSS-Modules и SCSS<br>
