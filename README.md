@@ -15,3 +15,4 @@ npm run dev
 # Проект
 Посмотреть собранный проект можно по ссылке:
   https://8129693d.pryaniki--testrep.pages.dev/
+Login/pass: user131/password
