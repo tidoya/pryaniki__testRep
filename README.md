@@ -14,5 +14,5 @@ npm run dev
   Вы также увидите любые ошибки в консоли.<br>
 # Проект
 Посмотреть собранный проект можно по ссылке:
-  https://8129693d.pryaniki--testrep.pages.dev/
+  https://8129693d.pryaniki--testrep.pages.dev/   <br>
 Login/pass: user131/password
